@@ -6,4 +6,6 @@ Label Data: labels for the images are stored in labels folder as txt files.
 
 Baseline Model 1: Baseline1.ipynb
 
+Baseline Model 2: Baseline2.py
+
 Primary Model:
